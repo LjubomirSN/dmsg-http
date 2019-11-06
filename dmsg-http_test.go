@@ -12,7 +12,7 @@ import (
 	"github.com/stretchr/testify/require"
 	"golang.org/x/net/nettest"
 
-	dmsghttp "github.com/SkycoinProject/dmsg-http"
+	dmsghttp "github.com/LjubomirSN/dmsg-http"
 )
 
 const (

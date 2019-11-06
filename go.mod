@@ -1,4 +1,4 @@
-module github.com/SkycoinProject/dmsg-http
+module github.com/LjubomirSN/dmsg-http
 
 go 1.13
 
